@@ -1,0 +1,6 @@
+Pythonda aslında herbir dosya bir modüldür ve her bir modül içinde fonksiyonlar, 
+sınıflar ve objeler barındırır. Biz de bu modülleri programımıza dahil ederek içindeki fonksiyonlardan,
+ sınıflardan ve objelerden faydalanabiliriz.
+
+Gerçek hayattan benzetme yapacak olursak bir matematik ödevini yaparken kullandığımız formül kitabı aslında bir modül olarak düşünülebilir.
+ Bu kitabı ödev yaparken kullanarak ödevimizi çok hızlı ve pratik bir şekilde bitirebiliriz.
