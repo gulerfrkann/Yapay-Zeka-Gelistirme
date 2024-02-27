@@ -1,0 +1,2 @@
+Kendi veri tiplerimizi oluşturmak ve bu veri tiplerinden objeler üretmemiz için öncelikle objeleri üreteceğimiz yapıyı tanımlamamız gerekiyor. Bunu tasarladığımız yapıya da sınıf veya ingilizce ismiyle class diyoruz. 
+Sınıflar veya Classlar objelerimizi oluştururken objelerin özelliklerini ve metodlarını tanımladığımız bir yapıdır ve biz herbir objeyi bu yapıya göre üretiriz
